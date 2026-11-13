@@ -1,0 +1,23 @@
+# 게임 원본·산출물 (배포하지 않음)
+*.iso
+*.rvz
+*.wbfs
+*.xdelta
+ext/
+patch/
+text/units.json
+text/speakers_ja.json
+text/dol_ja.json
+text/overflow.json
+
+# 글꼴·외부 실행 파일·이미지
+*.ttf
+*.otf
+*.exe
+*.dll
+*.png
+fonts/
+
+# 파이썬
+__pycache__/
+*.pyc
